@@ -2,11 +2,11 @@
 
 🎓 Engineering Student
 
-💻 Aspiring Data Scientist
+💻 Aspiring Data Analyst
 
 🌱 Currently Learning:
 - Python
-- Data Science
+- Data Analyst
 - Machine Learning
 - Git & GitHub
 
