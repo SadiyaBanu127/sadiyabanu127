@@ -1,6 +1,15 @@
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=190&section=header&text=Sadiya%20Banu&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20Engineering%20Student&descAlignY=62&descSize=18&descColor=93C5FD"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Python+%7C+HTML+%7C+CSS;JavaScript+%7C+React+%7C+SQL;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
+
+</div>
+
+
+<div align="center">
+
 <h1>Hey, I'm Sadiya Banu 👋</h1>
 
 <h3>Computer Science Engineering Student</h3>
