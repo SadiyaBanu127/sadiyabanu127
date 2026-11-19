@@ -1,18 +1,26 @@
 # Hi, I'm Sadiya Banu 👋
 
-🎓 Engineering Student
+🎓 Computer Science Engineering Student
 
-💻 Aspiring Data Analyst
+💻 Full-Stack Developer | Software Developer
 
-🌱 Currently Learning:
+🚀 **Technical Skills:**
 - Python
-- Data Analyst
-- Machine Learning
+- HTML
+- CSS
+- JavaScript
+- React.js
+- SQL
 - Git & GitHub
 
-🚀 Interested In:
-- Artificial Intelligence
-- Data Analytics
-- Open Source Projects
+🌱 **Currently Learning:**
+- Full-Stack Development
+- Web Development
+- Software Development
 
-⭐ Always eager to learn new technologies and build impactful projects.
+💡 **Interested In:**
+- Building Real-World Projects
+- Problem Solving
+- Open Source Contributions
+
+⭐ Passionate about coding, learning new technologies, and creating useful projects.
